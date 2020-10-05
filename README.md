@@ -2,11 +2,9 @@
 
 http://basshelal.dev
 
-Android (Kotlin) & Web (TypeScript) Open Source Developer
+Open Source Developer & Enthusiast
 
-Open Source Enthusiast 👨‍💻
+Mostlty Kotlin and TypeScript
 
-Currently finishing my MSc. in Advanced Software Technology at Swansea University 🎓
-
-When I'm not working on code, I'm either reading about it 📖, playing the keyboard 🎹 or (more likely) sleeping 😴
+When I'm not programming, I'm either playing the keyboard 🎹 or (more likely) sleeping 😴
 
