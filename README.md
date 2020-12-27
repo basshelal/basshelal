@@ -2,11 +2,11 @@
 
 http://basshelal.dev
 
-Open Source Developer & Enthusiast
+Free & Open Source Developer & Enthusiast
 
-Mostlty Kotlin and TypeScript
+Kotlin and TypeScript
+
+Currently experimenting and learning audio programming with C++ and Kotlin/Java
 
 When I'm not programming, I'm either playing the keyboard 🎹 or (more likely) sleeping 😴
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basshelal&layout=compact&langs_count=4&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
