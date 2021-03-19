@@ -2,10 +2,12 @@
 
 http://basshelal.dev
 
-Free & Open Source Developer & Enthusiast
+Free (as in Freedom) Open Source Software Developer & Enthusiast
 
 Kotlin and TypeScript
 
-Currently experimenting and learning audio programming with Kotlin JVM
+Interested in audio programming (particularly on the JVM with Kotlin), especially Linux Audio Development and other Free (as in Freedom) audio technologies such as LV2 and SFZ
 
-When I'm not programming, I'm either playing the keyboard 🎹 or (more likely) sleeping 😴
+If it's not Free (as in Freedom) I don't care about it
+
+When I'm not programming, I'm either playing the keyboard or (more likely) sleeping
