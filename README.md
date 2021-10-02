@@ -1,6 +1,6 @@
 # Bassam Helal
 
-http://basshelal.dev
+https://basshelal.dev
 
 Free (as in Freedom) & Open Source Software Developer & Enthusiast
 
